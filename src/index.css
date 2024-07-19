@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Sofia&display=swap");
+
+:root {
+    --font-default: "Montserrat", sans-serif;
+    --font-logo: "Sofia", cursive;
+
+    --color-pink: #ca2461;
+    --color-pink-light: #f17ba642;
+
+    --color-orange-medium: #db6612;
+    --color-orange-light: #ff875e;
+    --color-orange-light-trail: #ff865e42;
+
+    --color-burgundy: #db5349;
+    --color-burgundy-light: #d6756e;
+
+    --color-red: #9b0f00;
+
+    --color-fuchsia: #db00d4;
+
+    --color-gray: #222222;
+}
+
+body {
+    font-family: var(--font-default);
+}

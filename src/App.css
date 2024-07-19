@@ -1,0 +1,497 @@
+* {
+    margin: 0;
+}
+
+.title,
+.subtitle {
+    font-weight: 700;
+    color: var(--color-pink);
+}
+
+.title {
+    font-size: 28pt;
+    padding: 3rem 0 2rem 0;
+}
+
+.subtitle {
+    font-size: 24pt;
+}
+
+body {
+    background-image: url("/assets/img/background.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.cursor_default {
+    cursor: default;
+}
+
+.flex_col {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-primary {
+    background-color: var(--color-pink) !important;
+    border-color: var(--color-pink) !important;
+    height: 4rem;
+    border-radius: 5rem !important;
+    font-size: 16pt !important;
+    font-weight: 600 !important;
+}
+
+.btn-secondary {
+    background-color: var(--color-red) !important;
+    border-color: var(--color-red) !important;
+    height: 3rem;
+    border-radius: 10rem !important;
+}
+
+.btn-terciary {
+    background-color: var(--color-orange-medium) !important;
+    border-color: var(--color-orange-medium) !important;
+    height: 4rem;
+    border-radius: 5rem !important;
+    font-size: 16pt !important;
+    font-weight: 600 !important;
+}
+
+.btn-primary:hover,
+.btn-secondary:hover,
+.card_article:hover {
+    transition: ease 1s;
+    transform: scale(1.035);
+    cursor: pointer;
+}
+
+.box-shadow {
+    box-shadow: 0.5rem 0.5rem 0 0 var(--color-pink-light);
+}
+
+/* Navigation */
+nav {
+    height: 5rem;
+    background-color: white;
+}
+
+.logo {
+    height: 3.5rem;
+}
+
+.logo_name {
+    font-family: var(--font-logo);
+    font-size: 26pt !important;
+}
+
+#offcanvasNavbar-expand-md {
+    display: flex;
+    align-items: end;
+}
+
+.active,
+.inactive {
+    font-size: 14pt;
+    padding-right: 1rem;
+    font-weight: 500;
+    text-decoration: none;
+    text-align: center;
+}
+
+.active {
+    font-weight: 700;
+    color: var(--color-pink) !important;
+}
+
+.inactive {
+    color: var(--color-gray) !important;
+}
+
+.log_out {
+    font-weight: 500;
+    font-size: 14pt;
+}
+
+/* Home */
+.home_about {
+    width: 55rem;
+    background-color: white;
+    border-radius: 1rem;
+}
+
+.home_about p,
+.welcome_texts p {
+    padding: 0 0.8rem;
+    font-size: 16pt;
+}
+
+.home_register {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.home_register p {
+    font-size: 16pt;
+    font-weight: 500;
+}
+
+.register_link {
+    color: var(--color-orange-medium);
+    font-weight: 800;
+    cursor: pointer;
+}
+
+.register_link:hover {
+    text-decoration: underline;
+}
+
+/* Login */
+.login {
+    color: var(--color-pink);
+}
+
+.login,
+.register {
+    font-size: 18pt;
+    margin-bottom: 2rem;
+    font-weight: 700;
+}
+
+.form-control {
+    height: 5rem !important;
+    border-color: var(--color-gray) !important;
+    font-size: 14pt !important;
+    border-radius: 10rem !important;
+    padding: 0 1.5rem !important;
+    width: 30rem !important;
+}
+
+/* Register */
+.register {
+    color: var(--color-orange-medium);
+}
+
+/* Diary*/
+main,
+.home {
+    padding: 0 3rem 3rem;
+    text-align: center;
+    min-height: 30rem;
+}
+
+.card_article {
+    height: 35rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 1rem;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
+
+.card_header {
+    height: 1.3rem;
+    font-size: 16pt;
+    color: white;
+}
+
+/* Videos Pages */
+.mind-exercise-pages {
+    display: flex;
+    flex-direction: column;
+    padding: 0 3rem 3rem;
+    text-align: center;
+    min-height: 30rem;
+}
+
+.bi-arrow-down-right-circle-fill,
+.bi-arrow-right-circle-fill {
+    font-size: 30pt;
+    color: var(--color-pink);
+}
+
+/* Video Dropdown */
+.video_dropdown {
+    margin-bottom: 3rem;
+}
+
+.video_dropdown h2 {
+    font-size: 18pt;
+}
+
+.btn-completed,
+.btn-notCompleted {
+    border-radius: 10rem !important;
+    height: 4rem;
+    font-size: 14pt !important;
+    font-weight: 500 !important;
+}
+
+.btn-completed {
+    background-color: var(--color-orange-light) !important;
+    border-color: var(--color-orange-light) !important;
+    font-weight: 600;
+}
+
+.btn-notCompleted {
+    background-color: none !important;
+    border-color: var(--color-orange-light) !important;
+}
+
+.large-video {
+    width: 40rem;
+    height: 30rem;
+    border-radius: 1rem;
+}
+
+/* Follow Up */
+.fu_message {
+    background-color: white;
+    width: 50rem;
+    border-radius: 1rem;
+}
+
+.fu_dailyMessage h4,
+p {
+    font-size: 18pt;
+}
+
+.fu_author {
+    font: 16pt sans-serif;
+}
+
+.fu_form {
+    font-size: 16pt;
+    font-weight: 700;
+    width: 25rem !important;
+}
+
+.form_mind {
+    color: var(--color-burgundy);
+    text-decoration: none;
+}
+
+.form_exercise {
+    color: var(--color-orange-medium);
+    text-decoration: none;
+}
+
+/* About */
+.about_page {
+    width: 100%;
+    margin: 0 !important;
+}
+
+.about_project {
+    padding: 1rem;
+    width: 40rem;
+    background-color: white;
+    border-radius: 1rem;
+}
+
+.about_project p {
+    font-size: 14pt;
+}
+
+.about_img {
+    height: 20rem;
+    width: 20rem;
+    border-radius: 50%;
+}
+
+.about_icon {
+    height: 4rem;
+}
+
+.about h4 {
+    padding: 2rem;
+}
+
+.contact_icon {
+    height: 3rem;
+}
+
+.contact {
+    font-size: 14pt;
+    text-align: center;
+}
+
+/* Not Found */
+.notFound_img {
+    width: 15rem;
+}
+
+@media screen and (max-width: 576px) {
+    .title {
+        font-size: 24pt;
+    }
+
+    .subtitle {
+        width: 20rem;
+        font-size: 20pt;
+        text-align: center;
+    }
+
+    .btn-primary,
+    .btn-terciary {
+        font-size: 16pt !important;
+    }
+
+    /* Navigation */
+    nav {
+        height: 5rem;
+    }
+
+    .active,
+    .inactive {
+        font-size: 16pt;
+    }
+
+    .logo {
+        scale: 0.95;
+    }
+
+    .logo_name {
+        font-size: 24pt !important;
+    }
+
+    /* Home */
+    .welcome_texts,
+    .home_about,
+    .contact {
+        width: 15rem;
+    }
+
+    .home_about p,
+    .welcome_texts p,
+    .home_register p,
+    .welcome_texts p,
+    .video_dropdown h2 {
+        font-size: 16pt;
+    }
+
+    /* Login */
+    .login,
+    .register {
+        font-size: 18pt;
+    }
+
+    /* Diary*/
+    .card_article {
+        margin-bottom: 2rem;
+        height: 20rem;
+    }
+
+    .card_header {
+        font-size: 16pt;
+        height: 1rem;
+    }
+
+    /* Videos Pages */
+    .bi-arrow-down-right-circle-fill,
+    .bi-arrow-right-circle-fill {
+        font-size: 25pt;
+    }
+
+    .mind-exercise-pages {
+        min-height: 55rem;
+    }
+
+    .video_dropdown .row {
+        justify-content: space-around !important;
+    }
+
+    .bi-check-circle-fill,
+    .bi-circle {
+        font-size: 25pt;
+        color: var(--color-orange-medium);
+    }
+
+    .large-video {
+        width: 20rem;
+        height: 10rem;
+    }
+
+    /* About */
+    .about p {
+        padding: 0 4rem;
+        text-align: center;
+    }
+
+    .about_img {
+        scale: 0.75;
+        margin-top: 0;
+        padding-top: 0;
+    }
+
+    .about_icon {
+        height: 5rem;
+        margin-bottom: 2rem;
+    }
+
+    /* Follow Up */
+    .fu_message {
+        width: 20rem;
+        border-radius: 1rem;
+    }
+
+    .progress-container {
+        flex-direction: column;
+    }
+
+    .CircularProgressbar {
+        height: 10rem;
+    }
+
+    .progress-container h3 {
+        font-size: 16pt;
+        padding-bottom: 3rem;
+    }
+
+    .fu_form {
+        font-size: 14pt;
+        width: 20rem !important;
+        margin-bottom: 3rem;
+    }
+
+    .progress_text {
+        padding-bottom: 0 !important;
+    }
+
+    /* NotFound */
+    .about a {
+        margin: 2rem 0;
+    }
+
+    .not_found {
+        height: 55rem;
+    }
+
+    .not_found .span {
+        font-size: 16pt;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    .about_img {
+        height: 30rem;
+        width: 30rem;
+    }
+
+    .about_icon {
+        height: 5rem;
+    }
+
+    .about_project {
+        width: 55rem;
+    }
+
+    .contact_icon {
+        height: 4rem;
+    }
+}
