@@ -25,14 +25,16 @@ const Home = () => {
         <section className="home">
             <article className="flex_col col-sm-12">
                 <h2 className="title">
-                    ¡Te damos la bienvenida a Serenamente!
+                    ¡Te damos la bienvenida a @nombre!
                 </h2>
                 <article className="home_about mt-4">
                     <p className="mt-3 cursor_default">
-                        Serenamente es una plataforma de acompañamiento para
-                        personas con cáncer mamario, para que puedan crear una
-                        cuenta, revisar videos de mindfulness y ejercicio
-                        físico, así como también poder ver su seguimiento.
+                        Esta página es un prototipo para realizar un seguimiento
+                        de salud para pacientes con cualquier tipo de condición
+                        en el que se requiera hacer videos de mindfulness y
+                        ejercicio físico. Se puede realizar el registro y
+                        mantener un seguimiento que prevalece gracias a la base
+                        de datos conectada a Firebase.
                     </p>
                 </article>
             </article>
