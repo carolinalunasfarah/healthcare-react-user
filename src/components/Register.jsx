@@ -34,14 +34,6 @@ const Register = () => {
     const handleUser = (event) => {
         const { name, value } = event.target;
         setUser({ ...user, [name]: value });
-
-        if (name === "name" && !nameRegex.test(value)) {
-            Swal.fire({
-                icon: "error",
-                title: "Nombre inválido",
-                text: "El nombre no debe contener números ni caracteres especiales.",
-            });
-        }
     };
 
     const handleSubmit = async (event) => {
