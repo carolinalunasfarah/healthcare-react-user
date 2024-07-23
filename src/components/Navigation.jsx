@@ -42,9 +42,9 @@ function Navigation() {
                     <img
                         src={logo}
                         alt="Serenamente logo"
-                        className="logo me-2"
+                        className="logo me-4"
                     />
-                    <span className="ms-3 active logo_name">Cuidado de Salud</span>
+                    <span className="active logo_name">Cuidado Salud</span>
                 </Navbar.Brand>
                 <Navbar.Toggle
                     onClick={() => setShowOffcanvas(true)}

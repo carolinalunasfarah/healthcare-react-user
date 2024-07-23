@@ -353,11 +353,11 @@ p {
     }
 
     .logo {
-        scale: 0.95;
+        scale: 0.8;
     }
 
     .logo_name {
-        font-size: 20pt !important;
+        font-size: 14pt !important;
     }
 
     /* Home */
