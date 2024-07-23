@@ -363,7 +363,8 @@ p {
     /* Home */
     .welcome_texts,
     .home_about,
-    .contact {
+    .contact,
+    .about_project {
         width: 15rem;
     }
 
