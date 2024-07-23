@@ -3,45 +3,41 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 283.5 283.5" style="enable-background:new 0 0 283.5 283.5;" xml:space="preserve">
 <style type="text/css">
-	.st0{display:none;}
-	
-		.st1{display:inline;fill:none;stroke:#0D522C;stroke-width:5.6693;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st2{fill:#CA2461;}
-	.st3{fill:#DB6612;}
+	.st0{fill:#E5737B;}
+	.st1{fill:#3A3A77;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{display:none;}
 	.st4{display:inline;fill:#FFFFFF;}
 	.st5{display:inline;}
 	.st6{fill:#0D522C;}
-	.st7{fill:#FFFFFF;stroke:#CA2461;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st8{fill:#FFFFFF;stroke:#CA2461;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st9{fill:#CA2461;stroke:#CA2461;stroke-miterlimit:10;}
-	.st10{fill:#CA2461;stroke:#CA2461;stroke-width:1.600000e-04;}
-	.st11{fill-rule:evenodd;clip-rule:evenodd;fill:#DB6612;}
+	.st7{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
+	
+		.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
+	.st9{fill:#3A3A77;stroke:#3A3A77;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
+	.st10{fill-rule:evenodd;clip-rule:evenodd;fill:#E5737B;}
+	.st11{fill:#FFFFFF;stroke:#3A3A77;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
+	.st12{fill:#FFFFFF;stroke:#FF0050;stroke-width:2.592;stroke-miterlimit:10;}
+	.st13{fill-rule:evenodd;clip-rule:evenodd;fill:#3A3A77;}
 </style>
 <g id="guides">
 </g>
-<g id="base" class="st0">
-</g>
-<g id="logo" class="st0">
-</g>
 <g id="logo_1_">
-	<g>
-		<path class="st2" d="M150.2,264.5L67.5,180C8.6,117.2,25.2,65,25.2,65s10.6-41.1,61.1-44.5s63.9,52.2,63.9,52.2
-			s13.3-55.6,63.9-52.2S275.2,65,275.2,65S291.9,117.2,233,180L150.2,264.5z"/>
-	</g>
 </g>
-<g id="logo_x5F_favicon" class="st0">
+<g id="logo_x5F_favicon" class="st3">
 	
-		<image style="display:inline;overflow:visible;" width="450" height="450" xlink:href="../../../../../153213459-concienciación-sobre-el-cáncer-de-mama-plantilla-de-vector-de-logotipo-de-cinta.jpg"  transform="matrix(1 0 0 1 -3.4409 -98.9367)">
+		<image style="display:inline;overflow:visible;" width="450" height="450" xlink:href="1C620507.jpg"  transform="matrix(1 0 0 1 -3.4409 -98.9367)">
 	</image>
 </g>
 <g id="favicon">
 	<g>
-		<path class="st8" d="M170.3,123c50.9,42.6,117.4,59.2,117.4,59.2s-38.9,10.5-67.3,2.3c0,0,3.7,19.8,35.4,39.7
-			c0,0-51.2,2-106.6-70.1"/>
-		<path class="st8" d="M127.6,122.3C90.8,60.7,107.6,36,127.3,26c13.7-6.9,30.1-6.9,43.8,0c19.8,10,36.6,34.9-0.8,97
-			c-7,11.7-14.1,22-21.1,31.1c-55.8,72.6-108,70.1-108,70.1c31.7-19.8,35.4-39.7,35.4-39.7c-28.4,8.2-67.3-2.3-67.3-2.3
-			S127.9,152.7,169.5,71c11-21.6,3.6-29.4-9.3-34.1c-9.3-3.3-19.8-2.2-27.6,3.8c-7.6,5.8-12.6,15.5-5.1,30.3
-			c5.7,11.2,12.9,21.4,21,30.7"/>
+		<path class="st1" d="M149.2,263.8l-82.7-84.5C7.5,116.5,24.2,64.3,24.2,64.3s10.6-41.1,61.1-44.5S149.2,72,149.2,72
+			s13.3-55.6,63.9-52.2s61.1,44.5,61.1,44.5s16.7,52.2-42.2,115.1L149.2,263.8z"/>
 	</g>
+	<g>
+		<line class="st2" x1="149.2" y1="108.5" x2="149.2" y2="168.2"/>
+		<line class="st2" x1="119.4" y1="138.3" x2="179" y2="138.3"/>
+	</g>
+</g>
+<g id="Layer_7">
 </g>
 </svg>

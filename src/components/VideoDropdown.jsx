@@ -29,7 +29,7 @@ const VideoDropdown = ({
                             variant={
                                 Array.isArray(completed) &&
                                 completed.includes(index)
-                                    ? "completed text-white"
+                                    ? "completed"
                                     : "notCompleted"
                             }
                             onClick={() => videoCompleted(index)}>

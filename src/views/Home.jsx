@@ -25,7 +25,7 @@ const Home = () => {
         <section className="home">
             <article className="flex_col col-sm-12">
                 <h2 className="title">
-                    ¡Te damos la bienvenida a @nombre!
+                    ¡Te damos la bienvenida a Cuidado de Salud!
                 </h2>
                 <article className="home_about mt-4">
                     <p className="mt-3 cursor_default">

@@ -48,7 +48,7 @@ const FUProgress = () => {
             {/* Mindfulness Progress */}
             <Row className="flex_col">
                 <CircularProgressbar
-                    className="col-12 col-sm-12 col-md-3 col-lg-3 me-4 mindfulness-progress-bar"
+                    className="col-12 col-sm-12 col-md-3 col-lg-3 me-4 progress-bar"
                     value={mindfulnessPercentage}
                     text={`${mindfulnessPercentage.toFixed(0)}%`}
                     styles={buildStyles({
@@ -71,7 +71,7 @@ const FUProgress = () => {
             {/* Exercise Progress */}
             <Row className="flex_col">
                 <CircularProgressbar
-                    className="col-12 col-sm-12 col-md-3 col-lg-3 me-4 exercise-progress-bar"
+                    className="col-12 col-sm-12 col-md-3 col-lg-3 me-4 progress-bar"
                     value={exercisePercentage}
                     text={`${exercisePercentage.toFixed(0)}%`}
                     styles={buildStyles({

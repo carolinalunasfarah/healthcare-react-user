@@ -3,41 +3,41 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 283.5 283.5" style="enable-background:new 0 0 283.5 283.5;" xml:space="preserve">
 <style type="text/css">
-	.st0{display:none;}
-	
-		.st1{display:inline;fill:none;stroke:#0D522C;stroke-width:5.6693;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st2{fill:#CA2461;}
-	.st3{fill:#DB6612;}
+	.st0{fill:#E5737B;}
+	.st1{fill:#3A3A77;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{display:none;}
 	.st4{display:inline;fill:#FFFFFF;}
 	.st5{display:inline;}
 	.st6{fill:#0D522C;}
-	.st7{fill:#FFFFFF;stroke:#CA2461;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st8{fill:#FFFFFF;stroke:#CA2461;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st9{fill:#CA2461;stroke:#CA2461;stroke-miterlimit:10;}
-	.st10{fill:#CA2461;stroke:#CA2461;stroke-width:1.600000e-04;}
-	.st11{fill-rule:evenodd;clip-rule:evenodd;fill:#DB6612;}
+	.st7{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
+	
+		.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
+	.st9{fill:#3A3A77;stroke:#3A3A77;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
+	.st10{fill-rule:evenodd;clip-rule:evenodd;fill:#E5737B;}
+	.st11{fill:#FFFFFF;stroke:#3A3A77;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
+	.st12{fill:#FFFFFF;stroke:#FF0050;stroke-width:2.592;stroke-miterlimit:10;}
+	.st13{fill-rule:evenodd;clip-rule:evenodd;fill:#3A3A77;}
 </style>
 <g id="guides">
 </g>
-<g id="base" class="st0">
-</g>
-<g id="logo" class="st0">
-</g>
 <g id="logo_1_">
-	<path class="st2" d="M93.4,181.7L66.3,154c-19.3-20.6-13.8-37.7-13.8-37.7s3.5-13.5,20-14.6s20.9,17.1,20.9,17.1
-		s4.3-18.2,20.9-17.1s20,14.6,20,14.6s5.5,17.1-13.8,37.7L93.4,181.7z"/>
 </g>
-<g id="logo_x5F_favicon" class="st0">
+<g id="logo_x5F_favicon" class="st3">
+	
+		<image style="display:inline;overflow:visible;" width="450" height="450" xlink:href="6253B0BC.jpg"  transform="matrix(1 0 0 1 -306.9009 -98.9367)">
+	</image>
 </g>
 <g id="favicon">
-	<path class="st10" d="M253.7,82.6v119.6c0,11.1-9,20.2-20.2,20.2H49.9c-11.1,0-20.2-9-20.2-20.2V82.6c0-11.1,9-20.2,20.2-20.2
-		h183.6C244.7,62.4,253.7,71.5,253.7,82.6z M249.5,46.5H33.9c-11.1,0-20.2,9-20.2,20.2v151.6c0,11.1,9,20.2,20.2,20.2h215.6
-		c11.1,0,20.2-9,20.2-20.2V66.6C269.7,55.5,260.7,46.5,249.5,46.5z"/>
-	<path class="st10" d="M165.4,101.7h64c4.4,0,8,3.6,8,8v0c0,4.4-3.6,8-8,8h-64c-4.4,0-8-3.6-8-8v0
-		C157.4,105.3,161,101.7,165.4,101.7z"/>
-	<path class="st10" d="M165.4,133.7h64c4.4,0,8,3.6,8,8v0c0,4.4-3.6,8-8,8h-64c-4.4,0-8-3.6-8-8v0
-		C157.4,137.3,161,133.7,165.4,133.7z"/>
-	<path class="st10" d="M165.4,165.7h16c4.4,0,8,3.6,8,8v0c0,4.4-3.6,8-8,8h-16c-4.4,0-8-3.6-8-8v0
-		C157.4,169.3,161,165.7,165.4,165.7z"/>
+	<path id="Path_535" class="st9" d="M215.4,63.4H68.2c-4.6,0-8.3,3.7-8.3,8.3v175.9c0,4.6,3.7,8.3,8.3,8.3h147.2
+		c4.6,0,8.3-3.7,8.3-8.3V220l0,0V71.6C223.6,67.1,220,63.4,215.4,63.4C215.4,63.4,215.4,63.4,215.4,63.4z"/>
+	<g>
+		<path class="st7" d="M141.7,201.4L119,178.2c-16.2-17.3-11.6-31.6-11.6-31.6s2.9-11.3,16.8-12.2c13.9-0.9,17.6,14.4,17.6,14.4
+			s3.7-15.3,17.6-14.4c13.9,0.9,16.8,12.2,16.8,12.2s4.6,14.4-11.6,31.6L141.7,201.4z"/>
+	</g>
+	<path id="Path_539" class="st11" d="M157.2,50.1v-7.3c0-8.3-6.8-15.1-15.1-15.1c-8.3,0-15.1,6.8-15.1,15.1v7.3H95.2v29.8H189V50.1
+		L157.2,50.1z"/>
+</g>
+<g id="Layer_7">
 </g>
 </svg>

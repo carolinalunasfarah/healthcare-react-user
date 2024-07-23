@@ -5,7 +5,7 @@
 .title,
 .subtitle {
     font-weight: 700;
-    color: var(--color-pink);
+    color: var(--color-blue);
 }
 
 .title {
@@ -36,8 +36,8 @@ body {
 }
 
 .btn-primary {
-    background-color: var(--color-pink) !important;
-    border-color: var(--color-pink) !important;
+    background-color: var(--color-blue) !important;
+    border-color: var(--color-blue) !important;
     height: 4rem;
     border-radius: 5rem !important;
     font-size: 16pt !important;
@@ -45,15 +45,15 @@ body {
 }
 
 .btn-secondary {
-    background-color: var(--color-red) !important;
-    border-color: var(--color-red) !important;
-    height: 3rem;
+    background-color: var(--color-blue-medium) !important;
+    border-color: var(--color-blue-medium) !important;
+    height: 2.5rem;
     border-radius: 10rem !important;
 }
 
 .btn-terciary {
-    background-color: var(--color-orange-medium) !important;
-    border-color: var(--color-orange-medium) !important;
+    background-color: var(--color-blue-medium) !important;
+    border-color: var(--color-blue-medium) !important;
     height: 4rem;
     border-radius: 5rem !important;
     font-size: 16pt !important;
@@ -69,7 +69,7 @@ body {
 }
 
 .box-shadow {
-    box-shadow: 0.5rem 0.5rem 0 0 var(--color-pink-light);
+    box-shadow: 0.5rem 0.5rem 0 0 var(--color-blue-light);
 }
 
 /* Navigation */
@@ -103,7 +103,7 @@ nav {
 
 .active {
     font-weight: 700;
-    color: var(--color-pink) !important;
+    color: var(--color-blue) !important;
 }
 
 .inactive {
@@ -140,7 +140,7 @@ nav {
 }
 
 .register_link {
-    color: var(--color-orange-medium);
+    color: var(--color-blue-medium);
     font-weight: 800;
     cursor: pointer;
 }
@@ -151,7 +151,7 @@ nav {
 
 /* Login */
 .login {
-    color: var(--color-pink);
+    color: var(--color-blue);
 }
 
 .login,
@@ -172,7 +172,7 @@ nav {
 
 /* Register */
 .register {
-    color: var(--color-orange-medium);
+    color: var(--color-blue-medium);
 }
 
 /* Diary*/
@@ -212,7 +212,7 @@ main,
 .bi-arrow-down-right-circle-fill,
 .bi-arrow-right-circle-fill {
     font-size: 30pt;
-    color: var(--color-pink);
+    color: var(--color-blue);
 }
 
 /* Video Dropdown */
@@ -233,14 +233,14 @@ main,
 }
 
 .btn-completed {
-    background-color: var(--color-orange-light) !important;
-    border-color: var(--color-orange-light) !important;
+    background-color: var(--color-blue-medium) !important;
+    border-color: var(--color-blue-medium) !important;
     font-weight: 600;
 }
 
 .btn-notCompleted {
     background-color: none !important;
-    border-color: var(--color-orange-light) !important;
+    border-color: var(--color-blue-medium) !important;
 }
 
 .large-video {
@@ -272,12 +272,12 @@ p {
 }
 
 .form_mind {
-    color: var(--color-burgundy);
+    color: var(--color-blue);
     text-decoration: none;
 }
 
 .form_exercise {
-    color: var(--color-orange-medium);
+    color: var(--color-blue);
     text-decoration: none;
 }
 
@@ -357,7 +357,7 @@ p {
     }
 
     .logo_name {
-        font-size: 24pt !important;
+        font-size: 20pt !important;
     }
 
     /* Home */
@@ -409,7 +409,7 @@ p {
     .bi-check-circle-fill,
     .bi-circle {
         font-size: 25pt;
-        color: var(--color-orange-medium);
+        color: var(--color-blue-medium);
     }
 
     .large-video {

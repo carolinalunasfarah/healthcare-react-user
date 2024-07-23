@@ -3,37 +3,37 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 283.5 283.5" style="enable-background:new 0 0 283.5 283.5;" xml:space="preserve">
 <style type="text/css">
-	.st0{display:none;}
-	
-		.st1{display:inline;fill:none;stroke:#0D522C;stroke-width:5.6693;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st2{fill:#CA2461;}
-	.st3{fill:#DB6612;}
+	.st0{fill:#E5737B;}
+	.st1{fill:#3A3A77;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{display:none;}
 	.st4{display:inline;fill:#FFFFFF;}
 	.st5{display:inline;}
 	.st6{fill:#0D522C;}
-	.st7{fill:#FFFFFF;stroke:#CA2461;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st8{fill:#FFFFFF;stroke:#CA2461;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st9{fill:#CA2461;stroke:#CA2461;stroke-miterlimit:10;}
-	.st10{fill:#CA2461;stroke:#CA2461;stroke-width:1.600000e-04;}
-	.st11{fill-rule:evenodd;clip-rule:evenodd;fill:#DB6612;}
+	.st7{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
+	
+		.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
+	.st9{fill:#3A3A77;stroke:#3A3A77;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
+	.st10{fill-rule:evenodd;clip-rule:evenodd;fill:#E5737B;}
+	.st11{fill:#FFFFFF;stroke:#3A3A77;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
+	.st12{fill:#FFFFFF;stroke:#FF0050;stroke-width:2.592;stroke-miterlimit:10;}
+	.st13{fill-rule:evenodd;clip-rule:evenodd;fill:#3A3A77;}
 </style>
 <g id="guides">
 </g>
-<g id="base" class="st0">
-</g>
-<g id="logo" class="st0">
-</g>
 <g id="logo_1_">
 </g>
-<g id="logo_x5F_favicon" class="st0">
+<g id="logo_x5F_favicon" class="st3">
 </g>
 <g id="favicon">
-	<path class="st2" d="M141.7,15.7c-69.6,0-126,56.4-126,126s56.4,126,126,126s126-56.4,126-126S211.3,15.7,141.7,15.7z M141.7,252
+	<path class="st1" d="M141.7,15.7c-69.6,0-126,56.4-126,126s56.4,126,126,126s126-56.4,126-126S211.3,15.7,141.7,15.7z M141.7,252
 		c-60.9,0-110.2-49.4-110.2-110.2S80.8,31.5,141.7,31.5S252,80.8,252,141.7S202.6,252,141.7,252z"/>
-	<circle class="st2" cx="198.1" cy="112.4" r="14.2"/>
-	<circle class="st2" cx="89.8" cy="112.4" r="14.2"/>
-	<path class="st2" d="M143,157.5c-22.9,0-44.4,11.1-57.7,29.8c-2.5,3.5-1.7,8.5,1.9,11c3.5,2.5,8.5,1.7,11-1.9
+	<circle class="st1" cx="198.1" cy="112.4" r="14.2"/>
+	<circle class="st1" cx="89.8" cy="112.4" r="14.2"/>
+	<path class="st1" d="M143,157.5c-22.9,0-44.4,11.1-57.7,29.8c-2.5,3.5-1.7,8.5,1.9,11c3.5,2.5,8.5,1.7,11-1.9
 		c17.7-24.8,52.1-30.6,76.9-12.9c4.7,3.3,8.8,7.3,12.2,11.9c2.6,3.5,7.5,4.2,11,1.6c3.5-2.6,4.2-7.5,1.6-11
 		C186.4,168,165.3,157.5,143,157.5z"/>
+</g>
+<g id="Layer_7">
 </g>
 </svg>

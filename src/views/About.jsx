@@ -13,7 +13,7 @@ const About = () => {
     return (
         <section className="flex-col">
             <section className="flex_col">
-                <h2 className="title cursor_default">Proyecto: "Título"</h2>
+                <h2 className="title cursor_default">Cuidado de Salud</h2>
             </section>
             <Row className="justify-content-evenly align-items-center about_page">
                 <Col className="col-12 col-sm-12 col-md-2 col-lg-2 flex_col">
@@ -25,7 +25,7 @@ const About = () => {
                 </Col>
                 <Col className="col-12 col-sm-12 col-md-6 col-lg-6 flex_col">
                     <h4 className="subtitle cursor_default mb-4">
-                        Sobre mi / Sobre el proyecto
+                        Sobre equipo / Descripción
                     </h4>
                     <article className="about_project">
                         <p className="mt-1 cursor_default">
@@ -44,17 +44,17 @@ const About = () => {
                     <article className="mt-3 about_icons">
                         <img
                             src={about01}
-                            alt="About logo 01, nurse"
+                            alt="About logo 01, medical kit icon"
                             className="about_icon me-2"
                         />
                         <img
                             src={about02}
-                            alt="About logo 02, breast cancer ribbon"
-                            className="about_icon me-3"
+                            alt="About logo 02, medical stethoscope icon"
+                            className="about_icon me-2"
                         />
                         <img
                             src={about03}
-                            alt="About logo 03, health care card"
+                            alt="About logo 03, follow up card icon"
                             className="about_icon"
                         />
                     </article>

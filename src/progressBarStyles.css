@@ -8,15 +8,9 @@
     font-size: 16pt;
 }
 
-.mindfulness-progress-bar {
-    --path-color: var(--color-burgundy);
-    --trail-color: var(--color-pink-light);
-    --text-color: var(--color-gray);
-}
-
-.exercise-progress-bar {
-    --path-color: var(--color-orange-light);
-    --trail-color: var(--color-orange-light-trail);
+.progress-bar {
+    --path-color: var(--color-blue-medium);
+    --trail-color: var(--color-grayblue);
     --text-color: var(--color-gray);
 }
 
@@ -24,28 +18,15 @@
     width: 20rem;
 }
 
-.mindfulness-progress-bar .CircularProgressbar-path {
+.progress-bar .CircularProgressbar-path {
     stroke: var(--path-color);
 }
 
-.mindfulness-progress-bar .CircularProgressbar-trail {
+.progress-bar .CircularProgressbar-trail {
     stroke: var(--trail-color);
 }
 
-.mindfulness-progress-bar .CircularProgressbar-text {
-    fill: var(--text-color);
-    text-anchor: middle;
-}
-
-.exercise-progress-bar .CircularProgressbar-path {
-    stroke: var(--path-color);
-}
-
-.exercise-progress-bar .CircularProgressbar-trail {
-    stroke: var(--trail-color);
-}
-
-.exercise-progress-bar .CircularProgressbar-text {
+.progress-bar .CircularProgressbar-text {
     fill: var(--text-color);
     text-anchor: middle;
 }

@@ -3,46 +3,34 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 283.5 283.5" style="enable-background:new 0 0 283.5 283.5;" xml:space="preserve">
 <style type="text/css">
-	.st0{display:none;}
-	
-		.st1{display:inline;fill:none;stroke:#0D522C;stroke-width:5.6693;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st2{fill:#CA2461;}
-	.st3{fill:#DB6612;}
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#9191E6;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{display:none;}
 	.st4{display:inline;fill:#FFFFFF;}
 	.st5{display:inline;}
 	.st6{fill:#0D522C;}
-	.st7{fill:#FFFFFF;stroke:#CA2461;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st8{fill:#FFFFFF;stroke:#CA2461;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st9{fill:#CA2461;stroke:#CA2461;stroke-miterlimit:10;}
-	.st10{fill:#CA2461;stroke:#CA2461;stroke-width:1.600000e-04;}
-	.st11{fill-rule:evenodd;clip-rule:evenodd;fill:#DB6612;}
+	.st7{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
+	
+		.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
+	.st9{fill:#3A3A77;stroke:#3A3A77;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
+	.st10{fill-rule:evenodd;clip-rule:evenodd;fill:#9191E6;}
+	.st11{fill:#3A3A77;}
+	.st12{fill:#FFFFFF;stroke:#3A3A77;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
+	.st13{fill:#FFFFFF;stroke:#FF0050;stroke-width:2.592;stroke-miterlimit:10;}
+	.st14{fill-rule:evenodd;clip-rule:evenodd;fill:#3A3A77;}
 </style>
 <g id="guides">
 </g>
-<g id="base" class="st0">
-	
-		<image style="display:inline;overflow:visible;" width="700" height="700" xlink:href="../../../../../noun-heal-6869196.png"  transform="matrix(0.4049 0 0 0.4049 0 0.2346)">
-	</image>
-</g>
-<g id="logo" class="st0">
-	<path class="st1" d="M49.4,247.4L27.6,183c-1.5-4.6,0.9-9.5,5.5-11l15.9-5.4c4.6-1.5,9.5,0.9,11,5.5l21.8,64.4
-		c1.5,4.6-0.9,9.5-5.5,11l-15.9,5.4C55.9,254.4,50.9,251.9,49.4,247.4z"/>
-	<path class="st1" d="M61.2,175.6l43.9-16.4c0,0,10.1-5.9,21.5,0s42,21.8,42,21.8s10.2,5.8,5.2,17.9c-4.4,10.6-14,5.9-14,5.9
-		l-31.2-12.7"/>
-	<path class="st1" d="M173.4,186.2l42.1-21.1c0,0,11.2-6.2,20.1,4.6c8.9,10.9-16.2,26.5-16.2,26.5"/>
-	<path class="st1" d="M169.1,204.7l73.1-12.3c0,0,11.7-1.5,13.5,9c0.8,4.9-1.5,8.8-4.3,11.7c-2.9,3-6.7,5-10.7,6.1l-82.1,22.1
-		c0,0-7.6,2.3-12.3,0l-44.7-17.6c0,0-3.4-1.6-8.3,0.5l-13.9,5.3"/>
-	<path class="st1" d="M173.4,173.6L125,124.1c-34.5-36.8-24.7-67.4-24.7-67.4s6.2-24.1,35.8-26s37.4,30.6,37.4,30.6
-		s7.8-32.5,37.4-30.6s35.8,26,35.8,26s9.8,30.6-24.7,67.4L173.4,173.6z"/>
-	<path class="st1" d="M175.1,129.6c0,0,15.2-28.6-16-49.5c0,0-16.3-7.2-17.9-17.2c0,0-4.2-10.7-9.8,0
-		C131.4,62.9,103.9,112.7,175.1,129.6z"/>
-	<path class="st1" d="M175.1,129.6c0,0-8.1-21.8-28.1-37.7"/>
-	<path class="st1" d="M173.1,93.9c0,0,16.8-25.7,43.9-15.3c0,0,8.5,2.5,0,6.4c0,0-8.5,5.6-15.6,25.8c-2.4,6.8-11.9,9.3-23.3,9.7"/>
-	<path class="st1" d="M178.7,110.8c0,0,4-9.8,18.2-18.9"/>
+<g id="Layer_6">
 </g>
 <g id="logo_1_">
+	<path class="st1" d="M142.4,27.4c63.2,0,114.4,51.2,114.4,114.4c0,63.2-51.2,114.4-114.4,114.4C79.2,256.1,28,204.9,28,141.7
+		C28,78.6,79.2,27.4,142.4,27.4z"/>
+	<path class="st2" d="M58.9,150.2l41.8,0.1c1.1,0,2-0.7,2.4-1.7l18.9-59.1c0.8-2.5,4.5-2.2,4.9,0.4l14,92.3c0.4,2.6,3.9,2.9,4.8,0.5
+		l22.5-61c0.8-2.2,4-2.2,4.7,0.1l8.6,26.9c0.3,1,1.3,1.7,2.4,1.7l34.6,0.8"/>
 </g>
-<g id="logo_x5F_favicon" class="st0">
+<g id="logo_x5F_favicon" class="st3">
 	<circle class="st4" cx="141.7" cy="142" r="114.4"/>
 	<g class="st5">
 		<path class="st6" d="M141.4,245.3l-63.1-64.4C33.3,133,46.1,93.2,46.1,93.2s8.1-31.4,46.6-33.9c38.6-2.5,48.7,39.8,48.7,39.8
@@ -50,14 +38,7 @@
 	</g>
 </g>
 <g id="favicon">
-	<circle class="st2" cx="141.7" cy="142" r="114.4"/>
-	<g>
-		<path class="st7" d="M162.3,142.4c48,40.2,110.8,55.9,110.8,55.9s-36.7,9.9-63.5,2.2c0,0,3.5,18.7,33.4,37.4
-			c0,0-48.3,1.9-100.6-66.1"/>
-		<path class="st7" d="M122,141.7c-34.7-58.1-18.9-81.4-0.3-90.8c13-6.5,28.4-6.5,41.4,0c18.7,9.4,34.5,32.9-0.8,91.5
-			c-6.6,11-13.3,20.8-19.9,29.4c-52.6,68.6-101.9,66.1-101.9,66.1c29.9-18.7,33.4-37.4,33.4-37.4c-26.8,7.7-63.5-2.2-63.5-2.2
-			s111.9-27.9,151.2-104.9c10.4-20.3,3.4-27.8-8.8-32.2c-8.8-3.2-18.6-2-26,3.6c-7.1,5.4-11.9,14.7-4.8,28.6
-			c5.4,10.6,12.1,20.2,19.8,29"/>
-	</g>
+</g>
+<g id="Layer_7">
 </g>
 </svg>
