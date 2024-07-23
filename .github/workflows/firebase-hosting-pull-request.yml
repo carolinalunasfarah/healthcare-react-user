@@ -17,5 +17,5 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
-          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_SERENAMENTE_BACKEND }}
-          projectId: serenamente-backend
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_HEALTHCARE_BACKEND_3a9f6 }}
+          projectId: healthcare-backend-3a9f6
