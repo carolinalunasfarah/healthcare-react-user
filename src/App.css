@@ -243,10 +243,12 @@ main,
     border-color: var(--color-blue-medium) !important;
 }
 
-.large-video {
+.video-drop {
     width: 40rem;
-    height: 30rem;
     border-radius: 1rem;
+    aspect-ratio: 16 / 9;
+    padding: 0.8rem;
+    background-color: var(--color-blue-light);
 }
 
 /* Follow Up */
@@ -413,9 +415,9 @@ p {
         color: var(--color-blue-medium);
     }
 
-    .large-video {
+    .video-drop {
         width: 20rem;
-        height: 10rem;
+        padding: 0.5rem;
     }
 
     /* About */

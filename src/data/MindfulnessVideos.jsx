@@ -1,15 +1,15 @@
 export const MindfulnessVideos = [
     {
         name: "Sesión 1",
-        video_src: "https://www.youtube.com/embed/YEufx0cqjmo",
+        video_id: "YEufx0cqjmo",
     },
     {
         name: "Sesión 2",
-        video_src: "https://www.youtube.com/embed/DD9K9i9e3AM",
+        video_id: "DD9K9i9e3AM",
     },
     {
         name: "Sesión 3",
-        video_src: "https://www.youtube.com/embed/LAoWA1Z8MZE",
+        video_id: "LAoWA1Z8MZE",
     },
 ];
 

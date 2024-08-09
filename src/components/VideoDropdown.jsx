@@ -1,3 +1,7 @@
+// lite-youtube component
+import "@justinribeiro/lite-youtube";
+
+// react bootstrap
 import { Collapse, Button, Row } from "react-bootstrap";
 
 const VideoDropdown = ({
@@ -21,9 +25,7 @@ const VideoDropdown = ({
                                     ? "bi-arrow-down-right-circle-fill"
                                     : "bi-arrow-right-circle-fill"
                             }`}></i>
-                        <h2 className="col-4 d-flex">
-                            {data.name}
-                        </h2>
+                        <h2 className="col-4 d-flex">{data.name}</h2>
                         <Button
                             className="col-2 d-none d-md-block"
                             variant={
@@ -46,22 +48,16 @@ const VideoDropdown = ({
                                     : "bi-circle"
                             }`}
                             onClick={() => videoCompleted(index)}
-                            style={{ cursor: 'pointer' }}>
-                        </i>
+                            style={{ cursor: "pointer" }}></i>
                     </Row>
                     <Row className="d-flex align-items-center justify-content-center">
                         <Collapse in={open[index]}>
                             <section
                                 id={`video-collapse-text-${index}`}
-                                className="mt-4">
-                                <article className="embed-responsive embed-responsive-16by9">
-                                    <iframe
-                                        className="embed-responsive-item large-video"
-                                        src={data.video_src}
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowFullScreen
-                                        title={`video-${index}`}
-                                    />
+                                className="mt-4 flex_col">
+                                <article className="video-drop">
+                                    <lite-youtube
+                                        videoid={data.video_id}></lite-youtube>
                                 </article>
                             </section>
                         </Collapse>
